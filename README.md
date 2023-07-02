@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Sobre Mim
 
-Olá! Meu nome é Herick e sou estudante de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da área de Pentest e estou sempre em busca de aprender e aprimorar minhas habilidades nesse campo emocionante da segurança da informação. Recentemente, concluí um curso de Pentest Profissional oferecido pela Desec Security, onde adquiri conhecimentos práticos e teóricos essenciais para realizar testes de invasão de forma profissional.
+Olá! Meu nome é Herick e sou estudante de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da área de Pentest e estou sempre em busca de aprender e aprimorar minhas habilidades na segurança da informação. Recentemente, concluí um curso de Pentest Profissional oferecido pela Desec Security, onde adquiri conhecimentos práticos e teóricos essenciais para realizar testes de invasão de forma profissional.
 
 ## Habilidades Técnicas
+
 - Planejamento e Reconhecimento: 📝🔍
 - Coleta de Informações: 📚🔍
 - Detecção de Vulnerabilidades: 🎯🔍
@@ -39,12 +40,12 @@ Olá! Meu nome é Herick e sou estudante de Análise e Desenvolvimento de Sistem
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Objetivo
-Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências relacionadas ao mundo do Pentest. Aqui, você encontrará scripts, ferramentas, tutoriais e recursos relacionados à área de segurança da informação e testes de invasão.
+Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências relacionadas ao mundo do Pentest. 
 
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver alguma sugestão, correção ou quiser adicionar algo novo ao repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos colaborar e compartilhar conhecimento para fortalecer a comunidade de segurança da informação.
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([URL_DO_SEU_PERFIL_DO_LINKEDIN](https://www.linkedin.com/in/herick-costa/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herick-costa/)
 
 Fique à vontade para entrar em contato, trocar ideias e compartilhar conhecimento!
