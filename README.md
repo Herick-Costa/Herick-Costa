@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Sobre Mim
 
-Olá! Meu nome é Herick e sou estudante de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da área de Pentest e estou sempre em busca de aprender e aprimorar minhas habilidades na segurança da informação. Recentemente, concluí um curso de Pentest Profissional oferecido pela Desec Security, onde adquiri conhecimentos práticos e teóricos essenciais para realizar testes de invasão de forma profissional.
+Olá! Meu nome é Herick e sou formando de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da área de Pentest e estou sempre em busca de aprender e aprimorar minhas habilidades na segurança da informação. Recentemente, concluí um curso de Pentest Profissional oferecido pela Desec Security, onde adquiri conhecimentos práticos e teóricos essenciais para realizar testes de invasão de forma profissional.
 
 ## Habilidades Técnicas
 
