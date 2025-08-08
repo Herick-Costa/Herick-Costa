@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 Analista de Tecnologia da Informação com foco em Pentest e Red Team, certificado eJPT, com experiência prática em ambientes corporativos. Atuo com análise de vulnerabilidades, resposta a incidentes e investigação técnica de falhas. Possuo forte base em Linux e segurança ofensiva, com formação contínua em plataformas como TryHackMe, Hack The Box, OffSec, além de cursos especializados da DESEC Security. Estou em constante evolução prática e teórica, com o objetivo de gerar valor por meio de simulações realistas de ataques e estratégias de mitigação de riscos.
 
+## Try Hack Me
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png)](https://tryhackme.com/p/Zero08)
 
 ## Habilidades Técnicas
