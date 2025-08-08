@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Olá! Meu nome é Herick e sou formando de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da área de Pentest e estou sempre em busca de aprender e aprimorar minhas habilidades na segurança da informação. Recentemente, concluí um curso de Pentest Profissional oferecido pela Desec Security, onde adquiri conhecimentos práticos e teóricos essenciais para realizar testes de invasão de forma profissional.
 
-[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3706773" style='border:none;'></iframe>)]
+[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Zero08.png" alt="Your Image Badge" />)]
 
 ## Habilidades Técnicas
 
