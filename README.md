@@ -20,8 +20,6 @@ Olá! Meu nome é Herick e sou formando de Análise e Desenvolvimento de Sistema
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png)](https://tryhackme.com/p/Zero08)
 
-[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3706773" style='border:none;'></iframe>)](https://tryhackme.com/p/Zero08)
-
 ## Habilidades Técnicas
 
 - Planejamento e Reconhecimento: 📝🔍
