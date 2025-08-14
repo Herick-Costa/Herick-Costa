@@ -22,7 +22,7 @@ Analista de Tecnologia da Informação com foco em Pentest e Red Team, certifica
 
 <!-- [![Hack The Box](https://www.hackthebox.com/badge/image/2480369)](https://app.hackthebox.com/profile/2480369) -->
 
-[![TryHackMe Baadge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png)](https://tryhackme.com/p/Zero08)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png)](https://tryhackme.com/p/Zero08)
 ## Habilidades Técnicas
 
 - Planejamento e Reconhecimento: 📝🔍
@@ -46,7 +46,7 @@ Analista de Tecnologia da Informação com foco em Pentest e Red Team, certifica
 
 ## Objetivo
 Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências relacionadas ao mundo do Pentest. 
-
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png)](https://tryhackme.com/p/Zero08)
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver alguma sugestão, correção ou quiser adicionar algo novo ao repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos colaborar e compartilhar conhecimento para fortalecer a comunidade de segurança da informação.
 
