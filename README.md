@@ -51,6 +51,5 @@ Este repositório tem como objetivo compartilhar meus estudos, projetos e experi
 Contribuições são bem-vindas! Se você tiver alguma sugestão, correção ou quiser adicionar algo novo ao repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos colaborar e compartilhar conhecimento para fortalecer a comunidade de segurança da informação.
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herick-costa/)
 
 Fique à vontade para entrar em contato, trocar ideias e compartilhar conhecimento!
