@@ -22,7 +22,7 @@ Analista de Tecnologia da Informação com foco em Pentest e Red Team, certifica
 
 <!-- [![Hack The Box](https://www.hackthebox.com/badge/image/2480369)](https://app.hackthebox.com/profile/2480369) -->
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png?update=20250818)](https://tryhackme.com/p/Zero08)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Zero08.png?update=20250902)](https://tryhackme.com/p/Zero08)
 
 ## Habilidades Técnicas
 
