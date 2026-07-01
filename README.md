@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Sobre Mim
 
-Analista de Tecnologia da Informação com foco em Pentest e Red Team, certificado eJPT, com experiência prática em ambientes corporativos. Atuo com análise de vulnerabilidades, resposta a incidentes e investigação técnica de falhas. Possuo forte base em Linux e segurança ofensiva, com formação contínua em plataformas como TryHackMe, Hack The Box, OffSec, além de cursos especializados da DESEC Security. Estou em constante evolução prática e teórica, com o objetivo de gerar valor por meio de simulações realistas de ataques e estratégias de mitigação de riscos.
+Analista de Tecnologia da Informação com foco em Pentest e Red Team, certificado eJPT e eCPPT, com experiência prática em ambientes corporativos. Atuo com análise de vulnerabilidades, resposta a incidentes e investigação técnica de falhas. Possuo forte base em Linux e segurança ofensiva, com formação contínua em plataformas como TryHackMe, Hack The Box, OffSec, além de cursos especializados da DESEC Security. Estou em constante evolução prática e teórica, com o objetivo de gerar valor por meio de simulações realistas de ataques e estratégias de mitigação de riscos.
 
 ## Plataformas
 
